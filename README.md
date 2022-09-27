@@ -9,4 +9,5 @@ I'm a "multimodal" python engineer in the data (DE/SE/DS)
 - dataflow automation, data quality, databases organization 📦
 - cybersecurity & OSINT tools 🕵️‍♂️
 - cool ML usecases and their high-level ideas behind 🤖
+- MLOps tools and practices ⚗️
 - data science competitions 🥇
