@@ -1,16 +1,12 @@
-### Hi there 👋
+### 👨‍💻 Hello!
 
-<!--
-**andrii0yerko/andrii0yerko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a "multimodal" python engineer in the data (DE/SE/DS)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interested in:
+- python's advanced features, utils & libraries 📕
+- software engineering best practices 🛠
+- data processing and distributed computation frameworks 🚀
+- dataflow automation, data quality, databases organization 📦
+- cybersecurity & OSINT tools 🕵️‍♂️
+- cool ML usecases and their high-level ideas behind 🤖
+- data science competitions 🥇
