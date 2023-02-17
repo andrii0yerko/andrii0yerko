@@ -1,3 +1,6 @@
+### Consider supporting Ukraine in the face of ᵣ\*ssian military aggression!
+[<img src="https://savelife.in.ua/wp-content/themes/savelife/assets/images/new-logo-en.svg" width="120" alt='The Charity Foundation "Come Back Alive"'>](https://savelife.in.ua/en/donate-en/)
+
 ### 👨‍💻 Hello!
 
 I'm a "multimodal" python engineer in the data (DE/SE/DS)
