@@ -1,5 +1,4 @@
-### Consider supporting Ukraine in the face of ᵣ\*ssian military aggression!
-[<img src="https://savelife.in.ua/wp-content/themes/savelife/assets/images/new-logo-en.svg" width="120" alt='The Charity Foundation "Come Back Alive"'>](https://savelife.in.ua/en/donate-en/)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 ### 👨‍💻 Hello!
 
