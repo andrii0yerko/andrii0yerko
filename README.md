@@ -15,7 +15,7 @@ I'm a "multimodal" python engineer in the data (DE/SE/DS)
 - data science competitions 🥇
 
 ### Find me:
-[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&label=&logo=linkedin&style=for-the-badge&color=0A66C2)](https://www.linkedin.com/in/andrii-yerko-9565131aa/)
+[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&label=&logo=linkedin&style=for-the-badge&color=0A66C2)](https://www.linkedin.com/in/andrii-yerko/)
 ![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
 [![kaggle](https://img.shields.io/static/v1?message=Kaggle&label=&style=for-the-badge&color=20BEFF&logo=kaggle&logoColor=white)](https://www.kaggle.com/andrii0yerko)
 ![bullet](https://img.shields.io/static/v1?message=%E2%80%A2&label=&style=for-the-badge)
